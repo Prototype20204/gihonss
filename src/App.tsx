@@ -85,21 +85,21 @@ const App: React.FC = () => {
           <dl className="grid max-w-screen-md gap-8 mx-auto text-gray-900 sm:grid-cols-3 dark:text-white">
               <div className="flex flex-col items-center justify-center">
                   <dt className="mb-2 text-5xl md:text-7xl font-extrabold">
-                      <span data-counter-target="20">0</span>+
+                      <span data-counter-target="00">0</span>+
                   </dt>
                   <dd className="font-light text-2xl text-gray-500 dark:text-gray-400">Years of Experience</dd>
               </div>
               <div className="flex flex-col items-center justify-center">
                   <dt className="mb-2 text-5xl md:text-7xl font-extrabold">
-                      <span data-counter-target="300">0</span>+
+                      <span data-counter-target="00">0</span>+
                   </dt>
                   <dd className="font-light text-2xl text-gray-500 dark:text-gray-400">Engagements Completed</dd>
               </div>
               <div className="flex flex-col items-center justify-center">
                   <dt className="mb-2 text-5xl md:text-7xl font-extrabold">
-                      <span data-counter-target="10000">0</span>
+                      <span data-counter-target="00">0</span>
                   </dt>
-                  <dd className="font-light text-2xl text-gray-500 dark:text-gray-400">Cups of Dark Roast Coffee</dd>
+                  <dd className="font-light text-2xl text-gray-500 dark:text-gray-400">Number of Happy Customers</dd>
               </div>
           </dl>
                     </div>
@@ -279,7 +279,7 @@ const App: React.FC = () => {
           <div className="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-8 lg:px-6">
             <div className="font-light text-gray-500 sm:text-lg dark:text-gray-400">
               <h2 className="mb-4 text-5xl tracking-tight font-extrabold text-gray-900 dark:text-white">
-                About Me, HAK3R
+                About Me, Bum Wany
               </h2>
               <p className="mb-4 text-3xl">
               I've dedicated my career to finding the vulnerabilities that others miss. My journey began with CTF competitions and evolved into a full-time commitment to making digital spaces more secure.
@@ -320,7 +320,7 @@ const App: React.FC = () => {
               </svg>
               <blockquote className="transform transition-all duration-300 hover:scale-125">
               <p className="text-2xl font-medium py-8 text-gray-900 dark:text-white">
-                "Working with HAK3R transformed our security posture completely. Their methodical approach to penetration testing uncovered critical vulnerabilities that our internal team had missed for months. What sets them apart isn't just their technical expertise, but their ability to communicate complex security concepts in a way that resonates with us."
+                "Working with GIHON Cyber Security has transformed our security posture completely. Their methodical approach to penetration testing uncovered critical vulnerabilities that our internal team had missed for months. What sets them apart isn't just their technical expertise, but their ability to communicate complex security concepts in a way that resonates with us."
               </p>
             </blockquote>
               <figcaption className="flex items-center justify-center mt-6 space-x-3">
@@ -331,10 +331,10 @@ const App: React.FC = () => {
               />
                 <div className="flex items-center divide-x-2 divide-gray-500 dark:divide-gray-700">
                   <div className="pr-3 font-medium text-gray-900 dark:text-white">
-                    John Doe
+                    Bum Wany
                   </div>
                   <div className="pl-3 text-sm font-light text-gray-500 dark:text-gray-400">
-                    CEO at Google
+                    CEO at GIHON Cyber Security
                   </div>
                 </div>
               </figcaption>
@@ -378,7 +378,7 @@ const App: React.FC = () => {
                   type="text"
                   id="name"
                   className="shadow-sm bg-gray-50 border-4 border-green-300 text-gray-900 text-sm  focus:ring-primary-500 focus:border-primary-500 block w-full p-2.5 dark:bg-black dark:border-green-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500 dark:shadow-sm-light"
-                  placeholder="John Doe"
+                  placeholder="Bum Wany"
                   required
                 />
               </div>
