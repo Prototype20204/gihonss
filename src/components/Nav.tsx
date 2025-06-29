@@ -62,7 +62,7 @@ const Nav: React.FC = () => {
     >
       <Navbar.Brand href="/">
         <img 
-          src="./assets/images/hacker.png" 
+          src="./" 
           className={`mr-3 transition-all duration-300 ${
             isScrolled ? 'h-5 sm:h-7' : 'h-6 sm:h-9'
           }`} 
