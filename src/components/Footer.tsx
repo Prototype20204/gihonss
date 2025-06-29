@@ -53,12 +53,12 @@ const Footer: React.FC = () => {
       <footer className="bg-white py-4 dark:bg-black">
         <div className="max-w-screen-xl mx-auto p-4 md:flex md:items-center md:justify-between">
           <span className="text-sm text-gray-500 sm:text-center dark:text-gray-400">
-            © {new Date().getFullYear()} GIHON CYHBER SECURITY. All Rights Reserved.
+            © {new Date().getFullYear()} GIHON CYHBER SECURITY, SOUTH SUDAN. All Rights Reserved.
           </span>
           <ul className="flex flex-wrap items-center mt-3 text-sm text-gray-500 dark:text-gray-400 sm:mt-0">
             <li>
-              Brought to you with ❤️ by <a href="https://mach-deng-mach-portfolio.vercel.app/" className="mr-4 hover:underline md:mr-6">
-                GIHON CYBER SECURITY, SOUTH SUDAN
+              Created by <a href="https://mach-deng-mach-portfolio.vercel.app/" className="mr-4 hover:underline md:mr-6">
+                Mach Deng Mach
               </a>
             </li>
             <li>
