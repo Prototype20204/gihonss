@@ -295,7 +295,7 @@ const App: React.FC = () => {
             <div className="grid grid-cols-2 gap-4 mt-8">
             <img
               className="w-full transition-all duration-300 hover:saturate-150 hover:brightness-75 hover:hue-rotate-15"
-              src="././public/assets/images/gihoncyber.jpg"
+              src="./public/assets/images/gihoncyber.jpg"
               alt="office content 1"
             />
             <img
