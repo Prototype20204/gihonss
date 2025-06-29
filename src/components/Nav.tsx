@@ -62,7 +62,7 @@ const Nav: React.FC = () => {
     >
       <Navbar.Brand href="/">
         <img 
-          src="" 
+          src="./GIHON CYBER SECURITY.jpg" 
           className={`mr-3 transition-all duration-300 ${
             isScrolled ? 'h-5 sm:h-7' : 'h-6 sm:h-9'
           }`} 
@@ -71,7 +71,7 @@ const Nav: React.FC = () => {
         <span className={`self-center whitespace-nowrap font-bold dark:text-white transition-all duration-300 ${
           isScrolled ? 'text-lg' : 'text-2xl'
         }`}>
-          GIHON CYBER SEC
+          GIHON CYBER SECURITY
         </span>
       </Navbar.Brand>
       <div className="flex md:order-2">
