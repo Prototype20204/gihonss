@@ -72,7 +72,7 @@ const App: React.FC = () => {
           style={{ opacity: 0 }}  // This ensures it's initially invisible but still rendered
         >
           <img
-            src="./public/assets/images/gihoncyber.jpg"
+            src=""
             alt="hacker"
           />
         </div>
@@ -326,7 +326,7 @@ const App: React.FC = () => {
               <figcaption className="flex items-center justify-center mt-6 space-x-3">
               <img
                 className="w-6 h-6 rounded-full transition-opacity duration-300 hover:opacity-70"
-                src="./public/assets/images/gihoncyber.jpg"
+                src=""
                 alt="profile picture"
               />
                 <div className="flex items-center divide-x-2 divide-gray-500 dark:divide-gray-700">
@@ -345,7 +345,7 @@ const App: React.FC = () => {
           <div className="gap-8 items-center py-8 px-4 mx-auto max-w-screen-xl xl:gap-16 md:grid md:grid-cols-2 sm:py-16 lg:px-6">
             <img
               className="w-full transition-opacity duration-300 hover:opacity-70"
-              src="./public/assets/images/gihoncyber.jpg"
+              src=""
               alt="dashboard image"
             />
             <div className="mt-4 md:mt-0">
