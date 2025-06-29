@@ -300,7 +300,7 @@ const App: React.FC = () => {
             />
             <img
               className="mt-4 w-full lg:mt-10 transition-all duration-300 hover:saturate-150 hover:brightness-75 hover:hue-rotate-15"
-              src="./public/assets/images/gihoncyber.jpg""
+              src="./public/assets/images/gihoncyber.jpg"
               alt="office content 2"
             />
           </div>
