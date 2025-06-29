@@ -72,7 +72,7 @@ const App: React.FC = () => {
           style={{ opacity: 0 }}  // This ensures it's initially invisible but still rendered
         >
           <img
-            src="././public/assets/images/gihoncyber.jpg"
+            src="./public/assets/images/gihoncyber.jpg"
             alt="hacker"
           />
         </div>
