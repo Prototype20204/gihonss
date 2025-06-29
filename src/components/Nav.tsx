@@ -71,7 +71,7 @@ const Nav: React.FC = () => {
         <span className={`self-center whitespace-nowrap font-bold dark:text-white transition-all duration-300 ${
           isScrolled ? 'text-lg' : 'text-2xl'
         }`}>
-          HAK3R
+          GIHON CYBER SEC
         </span>
       </Navbar.Brand>
       <div className="flex md:order-2">
