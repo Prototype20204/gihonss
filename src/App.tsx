@@ -72,7 +72,7 @@ const App: React.FC = () => {
           style={{ opacity: 0 }}  // This ensures it's initially invisible but still rendered
         >
           <img
-            src="./public/assets/images/GIHON CYBER SECURITY.jpg"
+            src="./public/assets/images/gihon4.jpg"
             alt="hacker"
           />
         </div>
@@ -295,7 +295,7 @@ const App: React.FC = () => {
             <div className="grid grid-cols-2 gap-4 mt-8">
             <img
               className="w-full transition-all duration-300 hover:saturate-150 hover:brightness-75 hover:hue-rotate-15"
-              src="./public/assets/images/GIHON CYBER SECURITY.jpg"
+              src="./public/assets/images/gihon4.jpg"
               alt="office content 1"
             />
             <img
